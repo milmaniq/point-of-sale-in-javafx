@@ -1,0 +1,9 @@
+/lib
+/nbproject
+/test
+/dist
+/build
+/.idea
+build.xml
+manifest.mf
+scenicView.properties
