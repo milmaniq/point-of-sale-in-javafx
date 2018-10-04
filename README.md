@@ -21,7 +21,7 @@ Therefore, this system contributes for an efficient and effective POS System.
 ## Application Architecture
 * Model-View-Controller
 
-## Prerequistes
+## Prerequisites
 The following libraries are dependencies of this system:
 * ControlsFX
 * JFoenix
